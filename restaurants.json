@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "68e568280859eb1ea6d81d3b"
+  },
+  "Restaurante": "Romero's Pizzeria",
+  "Review": 4.4,
+  "Ubicacion": "Valentín Gómez Farias 511, Centro, 64000 Monterrey, N.L.",
+  "Estilo": "Italiano",
+  "Horario": "4 pm a 11 pm Lunes a viernes, 3 - 11 pm Sabado y Domingo",
+  "Precios": "100-200 Pesos mexicanos"
+},
+{
+  "_id": {
+    "$oid": "68e568280859eb1ea6d81d3c"
+  },
+  "Restaurante": "Guo Guos Pizaa",
+  "Review": 4.3,
+  "Ubicacion": "José Garibaldi 820, Centro, 64000 Monterrey, N.L.",
+  "Estilo": "Americana",
+  "Horario": "10 am 10 pm Lunes a Domingo",
+  "Precios": "50-400 Pesos mexicanos"
+},
+{
+  "_id": {
+    "$oid": "68e569410859eb1ea6d81d40"
+  },
+  "Restaurante": "Kurai Sushi & Chinese Buffet",
+  "Review": 4.5,
+  "Ubicacion": "San Pedro",
+  "Estilo": "Japones",
+  "Horario": "12:30 a 11 pm Lunes a sabado, 12:30-10pm Domingo",
+  "Precios": "300-400 Pesos mexicanos"
+},
+{
+  "_id": {
+    "$oid": "68e56c270859eb1ea6d81d43"
+  },
+  "Restaurante": "Quesadillas Mexico",
+  "Review": 4,
+  "Ubicacion": "MM9M+427 Monterrey, Nuevo León",
+  "Estilo": "Mexico City",
+  "Horario": "7am - 5pm Lunes-Sabado",
+  "Precios": "100-300 Pesos mexicanos"
+},
+{
+  "_id": {
+    "$oid": "68e56c270859eb1ea6d81d44"
+  },
+  "Restaurante": "Comida China Zhijim Express ?",
+  "Review": 4.8,
+  "Ubicacion": "Padre Mier 176-oriente, Centro, 64000 Monterrey, N.L.",
+  "Estilo": "China",
+  "Horario": "10am - 8pm Lunes a Domingo",
+  "Precios": "100-200 Pesos mexicanos"
+}]
