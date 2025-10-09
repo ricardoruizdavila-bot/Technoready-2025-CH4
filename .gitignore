@@ -1,3 +1,4 @@
+# ====== JAVA/MAVEN ======
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -36,3 +37,40 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# ====== NODE/EXPRESS ======
+# dependencias
+node_modules/
+
+# ambiente
+.env
+.env.local
+.env.*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# coverage / pruebas
+coverage/
+.nyc_output/
+
+# cache
+.cache/
+.eslintcache
+parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+
+# builds frontend comunes
+out/
+dist/
+build-*/       # si generas builds nombrados
+*.tsbuildinfo  # TypeScript incremental
+
+# sistema
+Thumbs.db
