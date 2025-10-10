@@ -1,9 +1,9 @@
-<Objetives>
+<objetives>
 
 <details>
     
-<> 
-<Sprint1>
+ 
+<sprint1>
 
 ## Technoready-2025-CH4
     
