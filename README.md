@@ -2,14 +2,14 @@
 <Sprint 1>
 
 
-    ## Technoready-2025-CH4
+## Technoready-2025-CH4
     
 Proyect about Non-Relational Databases for Storing JSON Data from digital now
 
 This sprint focuses on setting up the MongoDB database for the Tattler Restaurant Directory, designed to offer personalized and dynamic restaurant experiences.
 The goal is to store restaurant data in a non-relational structure (JSON) and prepare it for later interaction through a RESTful API with Express.js.
 
-    ## Installation & Usage
+## Installation & Usage
     
 Install MongoDB and Compass
 Download and install MongoDB Community Server
