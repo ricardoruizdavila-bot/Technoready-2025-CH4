@@ -75,6 +75,7 @@ restaurants.json   ## BACKUP
 Open MonogDB compass and connect the api server
 Open inteligi whit the progrm
 Open gitbash and run the server whit 
+
 ````
 npm run dev
 ````
