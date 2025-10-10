@@ -1,5 +1,5 @@
-
-<Sprint 1>
+<details>
+<Sprint 1> 
 
 
 ## Technoready-2025-CH4
