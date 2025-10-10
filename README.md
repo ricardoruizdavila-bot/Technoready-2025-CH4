@@ -88,5 +88,5 @@ for get    http://localhost:3000/api/restaurants
 for post   http://localhost:3000/api/restaurants
 for PUT and DELETE   http://localhost:3000/api/restaurants/ID FORM THE ARCHIVE YOU WANT
 ````
-
+See the results and modification in the mondoDB compass
 
