@@ -43,6 +43,7 @@ Command used to import in mongodb:
 
 <details>
   <summary>📦 SPRINT 2</summary>
+  
 Develop a RESTful API using Express.js and MongoDB, conducting tests in Postman or Insomnia (in this case postman) to verify the proper functioning of the API, and upload it to the GitHub repository.
 
 ## Archives to install
@@ -72,9 +73,11 @@ restaurants.json   ## BACKUP
 
 ## HOW USE
 
-Open MonogDB compass and connect the api server
-Open inteligi whit the progrm
-Open gitbash and run the server whit 
+Open MonogDB compass and connect the api server.
+
+Open inteligi whit the progrm.
+
+Open gitbash and run the server whit:
 
 ````
 npm run dev
