@@ -1,9 +1,5 @@
-<objetives>
-
 <details>
-    
- 
-<sprint1>
+  <summary>📦 Instalación</summary>
 
 ## Technoready-2025-CH4
     
