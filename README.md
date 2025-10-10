@@ -1,6 +1,6 @@
 <Objetives>
 
-<Sprint1>
+<details>
     
 <> 
 <Sprint1>
