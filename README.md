@@ -8,6 +8,7 @@ The project consists of transforming a restaurant directory platform to offer us
 
 <details>
   <summary>📦 SPRINT 1</summary>
+<details>
     
 This sprint focuses on setting up the MongoDB database for the Tattler Restaurant Directory, designed to offer personalized and dynamic restaurant experiences.
 The goal is to store restaurant data in a non-relational structure (JSON) and prepare it for later interaction through a RESTful API with Express.js.
