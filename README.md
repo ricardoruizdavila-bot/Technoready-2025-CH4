@@ -8,7 +8,6 @@ The project consists of transforming a restaurant directory platform to offer us
 
 <details>
   <summary>📦 SPRINT 1</summary>
-<details>
     
 This sprint focuses on setting up the MongoDB database for the Tattler Restaurant Directory, designed to offer personalized and dynamic restaurant experiences.
 The goal is to store restaurant data in a non-relational structure (JSON) and prepare it for later interaction through a RESTful API with Express.js.
@@ -44,7 +43,6 @@ Command used to import in mongodb:
 
 <details>
   <summary>📦 SPRINT 2</summary>
-<details>
   
 Develop a RESTful API using Express.js and MongoDB, conducting tests in Postman or Insomnia (in this case postman) to verify the proper functioning of the API, and upload it to the GitHub repository.
 
@@ -92,3 +90,31 @@ for PUT and DELETE   http://localhost:3000/api/restaurants/ID FORM THE ARCHIVE Y
 ````
 See the results and modification in the mondoDB compass
 
+<details>
+  <summary>📦 SPRINT 3</summary>
+
+For this sprint, there weren't many changes; only search parameters and filters were added when searching for certain restaurants.
+
+## New
+
+Added support for sorting (sort), field selection (fields), pagination (limit, page), and response format (format).
+The filter and sorting options are built dynamically based on the query parameters.
+Debug logs were added to help with troubleshooting and to show clear messages when no results are found.
+
+Test in Postman
+```
+Serach for word
+GET http://localhost:3000/api/restaurants?search=pizz
+```
+```
+Search for stile of food
+GET http://localhost:3000/api/restaurants?search=italiano
+```
+```
+Search for review (number):
+GET http://localhost:3000/api/restaurants?search=4.4
+```
+```
+Search for revier descend
+GET http://localhost:3000/api/restaurants?search=&sort=-Review
+```
