@@ -43,6 +43,7 @@ Command used to import in mongodb:
 
 <details>
   <summary>📦 SPRINT 2</summary>
+<details>
   
 Develop a RESTful API using Express.js and MongoDB, conducting tests in Postman or Insomnia (in this case postman) to verify the proper functioning of the API, and upload it to the GitHub repository.
 
